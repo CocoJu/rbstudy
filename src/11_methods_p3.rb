@@ -3,7 +3,7 @@ def hello_world(first_name = "", family_name = "")
   unless family_name == "" && first_name == ""
     greetting += "My name is " + first_name + " " + family_name
   end
-  greetting # this is returned value, equals "return greeting"
+  greetting # this is return value, equals "return greeting"
 end
 
 puts             hello_world("Dmitry", "Fedushov")
