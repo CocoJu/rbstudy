@@ -1,0 +1,5 @@
+    http://tryruby.org/
+very funny site with irb similar console
+
+    http://ruby.hasbrains.org/
+russian screencasts
