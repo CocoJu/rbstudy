@@ -1,0 +1,1 @@
+require_relative "../src/17_arrays/init"
